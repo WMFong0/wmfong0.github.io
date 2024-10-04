@@ -3,7 +3,7 @@
 <br>
 <br>
 <h2>Who Am I?</h2>
-<font color="#FFFFFF">I'm a year 2 HKUST Student, currently studying COMP.</font>
+<font color="#FF00FF">I'm a year 2 HKUST Student, currently studying COMP.</font>
 
 
   
