@@ -18,6 +18,8 @@
 <h2>Past projects</h2>
 <h6>Java, Python</h6>
 <font color="0000ff"><a href="https://github.com/WMFong0/Python-Weather-Report-System">Weather Report System</a></font>
+<font color="0000ff"><a href="https://github.com/WMFong0/Collatz-conjecture-Simple-Finder-Program">Collatz conjecture Simple Finder Program</a></font>
+<font color="0000ff"><a href="https://github.com/WMFong0/Python-Email-Slicer">Email Slicer</a></font>
 <font color="">
 <h6>C++</h6>
 <font color="0000ff"><a href="">Library Management System</a></font> (original recovered from my failed group project, project eventually cancelled, gonna build a completely different data structure)
