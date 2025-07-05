@@ -8,11 +8,12 @@
 <font color="FF00FF"><h7>I'm a year 2 HKUST Student, currently studying COMP.</h7></font>
 
 <h2>I currently have exposure to the following types of programming languages </h2>
-
- - Java(Basic, GUI, Functions, Exception handling, Class, OOP)   (haven't used in past year, smh)
- - Python(Basic, Panada, API, JSON, Dictionary, Functions, Exception handling, CSV)
- - C++(Basic, Functions, Class, OOP, Data Structure, Dynamic Programming)
- - React(Basic but excluding use of state)
+<ul>
+  <ol> Java(Basic, GUI, Functions, Exception handling, Class, OOP)   (haven't used in past year, smh) </ol>
+  <ol> Python(Basic, Panada, API, JSON, Dictionary, Functions, Exception handling, CSV) </ol>
+  <ol> C++(Basic, Functions, Class, OOP, Data Structure, Dynamic Programming) </ol>
+  <ol> React(Basic but excluding use of state) </ol>
+</ul>
 
 <h2>Past projects</h2>
 <h6>Java, Python</h6>
