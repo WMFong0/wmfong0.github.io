@@ -10,7 +10,7 @@
 <h2>I currently have exposure to the following types of programming languages </h2>
 <ul  style="list-style-type:disc">
   <ol> Java(Basic, GUI, Functions, Exception handling, Class, OOP)   (haven't used in past year, smh) </ol>
-  <ol> Python(Basic, Panada, API, JSON, Dictionary, Functions, Exception handling, CSV) </ol>
+  <ol> Python(Basic, Panada, API, JSON, Dictionary, Functions, Exception handling, CSV, Streamlit) </ol>
   <ol> C++(Basic, Functions, Class, OOP, Data Structure, Dynamic Programming) </ol>
   <ol> React(Basic but excluding use of state) </ol>
 </ul>
