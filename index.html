@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fong Wai Ming - Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <style>
         * {
             margin: 0;
@@ -406,7 +406,7 @@
             <div class="controls">
                 <button class="filter-btn active" data-filter="all">All Projects</button>
                 <button class="filter-btn" data-filter="python">Python</button>
-                <button class="filter-btn" data-filter="cplusplus">C++</button>
+                <button class="filter-btn" data-filter="c++">C++</button>
                 <button class="filter-btn" data-filter="web">Web</button>
             </div>
             
@@ -461,31 +461,41 @@
         ];
 
         // Projects Data
+        /*
+			title: string only,
+            description: string only,
+            skillset: array only,
+            link: string only,
+            	"https://github.com/WMFong0/Python-Weather-Report-System"
+                "../Little_Clock.html" for same directory files
+            category: lowercased string or array
+				enum: [python, c++, web]
+        */
         const projectsData = [
             {
                 title: "Weather Report System",
-                description: "A Python application that fetches and displays weather data from APIs.",
+                description: "An application that integrates real-time weather APIs to fetch and display accurate weather forecasts.",
                 skillset: ["Python", "API", "JSON"],
                 link: "https://github.com/WMFong0/Python-Weather-Report-System",
                 category: "python"
             },
             {
                 title: "Collatz Conjecture Finder",
-                description: "A program that calculates and visualizes the Collatz conjecture sequences, and explore numbers with larger steps.",
+                description: "A program that compute and visualize Collatz conjecture sequences, enabling exploration of numbers with extended steps.",
                 skillset: ["Python", "Algorithm"],
                 link: "https://github.com/WMFong0/Collatz-conjecture-Simple-Finder-Program",
                 category: "python"
             },
             {
                 title: "Email Slicer",
-                description: "A utility tool to extract username and domain from email addresses, and provide description on email providers.",
+                description: "An utility that extracts usernames and domains from email addresses and provides detailed insights into email providers.",
                 skillset: ["Python", "String Manipulation", "File Handling"],
                 link: "https://github.com/WMFong0/Python-Email-Slicer",
                 category: "python"
             },
             {
                 title: "Little Clock",
-                description: "A Streamlit-based clock application.",
+                description: "An interactive Streamlit-based web application for real-time clock functionality with a sleek, user-friendly interface.",
                 skillset: ["Web", "Python", "Streamlit"],
                 link: "../Little_Clock.html",
                 category: ["web","python"]
@@ -495,7 +505,7 @@
                 description: "A C++ application for managing library resources and transactions.",
                 skillset: ["C++", "Data Structures", "OOP"],
                 link: "#",
-                category: "cplusplus"
+                category: "c++" 
             }
         ];
 
@@ -503,7 +513,7 @@
         const educationData = [
             {
                 institution: "The Hong Kong University of Science and Technology",
-                degree: "Bachelor of Engineering - BE, Computer Science",
+                degree: "Bachelor of Engineering - BEng, Computer Science",
                 period: "Sep 2024 - Aug 2027",
                 activities: [],
                 achievements: []
@@ -518,7 +528,7 @@
                     "Introduction to R Programming Workshop",
                     "Power BI Workshop",
                     "Python and Machine Learning Workshop",
-                    "Investment Workshop"
+                    "Investment Club"
                 ],
                 achievements: [
                     "Graduated with Distinction",
