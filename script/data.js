@@ -30,8 +30,9 @@ const skillset = [
     link: string only,
         "https://github.com/WMFong0/Python-Weather-Report-System"
         "../Little_Clock.html" for same directory files
+        "#" for no link can be provided
     category: lowercased string or array
-        enum: [python, c++, web]
+        enum: [python, c++, web] # can be extended through filtering function
 */
 const projectsData = [
     {
@@ -80,7 +81,7 @@ const projectsData = [
         title: "Library Management System(Undergoing Revamp)",
         description: "A C++ application for managing library resources and transactions.",
         skillset: ["C++", "Data Structures(Hashing)", "Dynamic Programming", "OOP"],
-        link: "#",
+        link: "https://github.com/WMFong0/Library-Management-System",
         category: "c++" 
     }
 ];
