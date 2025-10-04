@@ -104,7 +104,7 @@ const educationData = [
             "Introduction to R Programming Workshop",
             "Power BI Workshop",
             "Python and Machine Learning Workshop",
-            "Investment Club"
+            "Investment Workshop"
         ],
         achievements: [
             "Graduated with Distinction",
