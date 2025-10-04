@@ -56,16 +56,16 @@ const projectsData = [
         category: "python"
     },
     {
-        title: "Little Clock",
+        title: "Little Clock Legacy (Streamlit Version)",
         description: "An interactive Streamlit-based web application for real-time clock functionality with a sleek, user-friendly interface.",
         skillset: ["Python", "Streamlit"],
         link: "https://little-clock-legacy-randomly0.streamlit.app/",
         category: "python"
     },
     {
-        title: "HTML Little Clock",
+        title: "Little Clock (HTML Version)",
         description: "An HTML-based web Clock. Able to include more functionality",
-        skillset: ["Web", "JavaScript"],
+        skillset: ["Web", "CSS", "JavaScript"],
         link: "https://wmfong0.github.io/HTML_Little_Clock/",
         category: "web"
     },
