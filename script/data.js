@@ -37,7 +37,7 @@ const projectsData = [
     {
         title: "Weather Report System",
         description: "An application that integrates real-time weather APIs to fetch and display accurate weather forecasts.",
-        skillset: ["Python", "API Handling", "CSV Handling``"],
+        skillset: ["Python", "API Handling", "CSV Handling"],
         link: "https://github.com/WMFong0/Python-Weather-Report-System",
         category: "python"
     },
