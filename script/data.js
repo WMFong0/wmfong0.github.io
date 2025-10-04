@@ -35,9 +35,16 @@ const skillset = [
 */
 const projectsData = [
     {
-        title: "Weather Report System",
+        title: "Python Weather Report System Legacy (Without GUI)",
         description: "An application that integrates real-time weather APIs to fetch and display accurate weather forecasts.",
         skillset: ["Python", "API Handling", "CSV Handling"],
+        link: "https://github.com/WMFong0/Python-Weather-Report-System",
+        category: "python"
+    },
+    {
+        title: "Python Weather Report System Web Application",
+        description: "An application that integrates real-time weather APIs to display accurate forecasts, featuring an interactive map for selecting weather stations.",
+        skillset: ["Python", "API Handling", "CSV Handling", "Streamlit", "Foilum"],
         link: "https://github.com/WMFong0/Python-Weather-Report-System",
         category: "python"
     },
