@@ -39,14 +39,14 @@ const projectsData = [
         title: "Python Weather Report System Legacy (Without GUI)",
         description: "An application that integrates real-time weather APIs to fetch and display accurate weather forecasts.",
         skillset: ["Python", "API Handling", "CSV Handling"],
-        link: "https://github.com/WMFong0/Python-Weather-Report-System",
+        link: "https://github.com/WMFong0/Python-Weather-Report-System-Legacy",
         category: "python"
     },
     {
         title: "Python Weather Report System Web Application",
         description: "An application that integrates real-time weather APIs to display accurate forecasts, featuring an interactive map for selecting weather stations.",
         skillset: ["Python", "API Handling", "CSV Handling", "Streamlit", "Foilum"],
-        link: "https://github.com/WMFong0/Python-Weather-Report-System",
+        link: "https://github.com/WMFong0/Python-Weather-Report-System-Web-Application",
         category: "python"
     },
     {
@@ -67,14 +67,14 @@ const projectsData = [
         title: "Little Clock Legacy (Streamlit Version)",
         description: "An interactive Streamlit-based web application for real-time clock functionality with a sleek, user-friendly interface.",
         skillset: ["Python", "Streamlit"],
-        link: "https://little-clock-legacy-randomly0.streamlit.app/",
+        link: "https://github.com/WMFong0/Little_Clock_Legacy",
         category: "python"
     },
     {
         title: "Little Clock (HTML Version)",
         description: "An HTML-based web Clock. Able to include more functionality",
         skillset: ["Web", "CSS", "JavaScript"],
-        link: "https://wmfong0.github.io/HTML_Little_Clock/",
+        link: "https://github.com/WMFong0/HTML_Little_Clock",
         category: "web"
     },
     {
