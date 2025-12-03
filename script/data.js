@@ -19,6 +19,10 @@ const skillset = [
         title: "Web Development",
         skillItems: ["React (Basics)", "HTML5", "CSS3", "JavaScript"],
         icons: ["fab fa-react", "fab fa-html5", "fab fa-css3-alt", "fab fa-js"]
+    },
+    {
+        title: "SQL",
+        skillItems: ["Java", "python"]
     }
 ];
 
