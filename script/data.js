@@ -22,7 +22,8 @@ const skillset = [
     },
     {
         title: "SQL",
-        skillItems: ["Java", "python"]
+        skillItems: ["Java (COMP3111 Project) ", "Python (A Side Project that is ongoing)"], 
+        icons: ["fa fa-code", "fa fa-code"]
     }
 ];
 
