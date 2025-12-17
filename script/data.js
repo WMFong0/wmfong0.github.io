@@ -85,12 +85,32 @@ const projectsData = [
     {
         title: "Library Management System(Undergoing Revamp)",
         description: "A C++ application for managing library resources and transactions.",
-        skillset: ["C++", "Data Structures(Hashing)", "Dynamic Programming", "OOP"],
+        skillset: ["C++"],
+        link: "https://github.com/WMFong0/Library-Management-System",
+        category: "c++" 
+    },
+    {
+        title: "Safe-folder(Ongoing)",
+        description: "Encryption of files, Access Control List",
+        skillset: ["python", "SQL"],
         link: "https://github.com/WMFong0/Library-Management-System",
         category: "c++" 
     }
 ];
-
+// Qualifications/Certifications data (Left undone until strong qualification comes in)
+const qualifications_data = [
+    {
+        company: "Microsoft Learn",
+        list_of_qualifications: // e.g. [[qualifications_name_a, qualification_date_a]]
+        [
+            "Microsoft AI Fundamentals",
+            "Microsoft Azure Fundamentals",
+            "Microsoft Azure AI Fundamentals",
+            "Microsoft Excel Associate",
+            "Microsoft Powerpoint Associate"
+        ]
+    }
+]
 // Education Data
 const educationData = [
     {
