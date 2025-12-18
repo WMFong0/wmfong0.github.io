@@ -94,7 +94,7 @@ const projectsData = [
         description: "Encryption of files, Access Control List",
         skillset: ["python", "SQL"],
         link: "https://github.com/WMFong0/Library-Management-System",
-        category: "c++" 
+        category: "python" 
     }
 ];
 // Qualifications/Certifications data (Left undone until strong qualification comes in)
